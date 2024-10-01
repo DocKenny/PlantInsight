@@ -1,1 +1,11 @@
+ESP32 Plant Monitor/.pio
+ESP32 Plant Monitor/.vscode/.browse.c_cpp.db*
+ESP32 Plant Monitor/.vscode/c_cpp_properties.json
+ESP32 Plant Monitor/.vscode/launch.json
+ESP32 Plant Monitor/.vscode/ipch
 Plant monitor backend/.env
+ESP32 Plant Monitor/include/config.h
+Plant monitor backend/node_modules/
+Plant monitor backend/dist/
+
+
