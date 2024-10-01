@@ -19,6 +19,8 @@ void setup() {
     
     connectToWifi();
 
+    wifiClient.connect(MQTT_SERVER, MQTT_PORT);
+
     mqtt.begin(wifiClient);
 
     connectToMQTT();
